@@ -4,8 +4,7 @@
 % IEEE Transactions on Geoscience and Remote Sensing, 2022.
 %
 % URL: https://ieeexplore.ieee.org/document/9984678
-% The SVM toolbox which can be downloaded at:
-% http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+% To run this demo，please create a folder named "Datasets"， and add "salinas" data in it.
 
 The code is the implentation of paper 
 Ying Zhang; Puhong Duan; Jianxu Mao; Xudong Kang; Leyuan Fang; Pedram Ghamisi, “Contour Structural Profiles: An Edge-Aware Feature Extractor for Hyperspectral Image Classification”, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5545914, doi: 10.1109/TGRS.2022.3229075.
